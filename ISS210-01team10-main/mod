@@ -155,7 +155,7 @@
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <h2 class="About Stereotyping>About</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -163,7 +163,13 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- About Section Content-->
-                <div class="container"><p>This is where you will gather together your evidence. Why should we care about this issue? It is a good idea to start with an anecdote and this section will be graded on investment and enthusiasm. Remember, people are moved by opinions and passion. You may want to incorporate a story that will influence people to care. You can add images and videos that speak to this anecdote, either in the portfolio section, where you should have a mix of mediums, including images, videos, evidence, and calls to action, or you can add one powerful image or video here by copying and pasting the code into this divider (I recommend the former so that it is not too busy). Once you have captured your audience's attention and got them invested, introduce your main argument and scholars. This section should include the "so-what?" of your argument. This container will expand as needed but still strive for concision.</p>
+                <div class="container"><p>According to MyJove Corportation, stereotyping is the the belief or assumption made on certain individuals or groups due to an overgeneralized comment or statement about them. 
+	                    For example, the assumption that older people are more likely to be tired. Stereotypes tend to be negative, and therefore they lead to prejuidice, a negative attitude or feeling towards an individual or a group. 
+	                    Such negative feelings can lead to discrimination, which is a negative form of action that does towards that individual being stereotyped. 
+	                    Stereotypes tend to spread from social learning, as they can negatively shape society's social norms. 
+	                    The way social learning does this is through adults or people of Supreme power influencing younger or learning individuals their beliefs towards society. 
+	                    Social media and the news also impact the way people think about others, as they focus on certain images that make people stereotypicalize a certain society.</p>
+</p>
                 </div>
                 </div>
                 <!-- About Section Button-->
@@ -183,7 +189,7 @@
                <!--List Contributor's Names and attributions-->
                 <div class="row justify-content-center">
                     <div class="col-sm"><p>Julia Hopkins:Why it matters,and the danger of a single story x</p></div>
-                    <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
+                    <div class="col-sm"><p>Aisha Ahmad: About Stereotyping</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
