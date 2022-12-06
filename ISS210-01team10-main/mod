@@ -38,7 +38,7 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="https://fly.yale.edu/sites/default/files/styles/large/public/event-images/collage-stereotypes.jpg?itok=lBX2UyOn" alt="..." />
+                <img class="https://fly.yale.edu/sites/default/files/event-images/collage-stereotypes.jpg" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">How Stereotyping Affects the Individual and Society </h1>
                 <!-- Icon Divider-->
@@ -92,34 +92,10 @@
                     <!-- Involved Item 3-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
-                   <!--stereotypes about overweighted students and their impact on grading among physical education teachers-->
-                     <h1>Many overweight students are treated differently</h1>
-                         Physical education teachers think that these overweight students need more attention and care. 
-                         They often avoid physical education classes and are teased by those around them.
-                         Overweight individuals are stereotyped as lazy, stupid, weak and incompetent.
-                         Many people think they are obese because of a lack of self-control, which also imposes a burden on society.
-                         This stereotype would leave bad impact to students and adults.When students encounter this situation, they will feel targeted and feel very sad. 
-                         They are not willing to go to school or communicate with others in the future, and will be prone to autism or depression.</body>
-                     </div>
-                    </div>
-                   </div>
-                      <h2> stereotypes can lead to bias in judgment</h2>
-                        These teachers also had lower expectations for overweight students than for normal-weight students, and had lower expectations than those who taught subjects not related to exercise or health.
-                        In this way,teachers with stereotypes may miss out on some capable geniuses.Some overweight students have lower self-esteem because they feel that teachers don't take them seriously. They may give up on themselves and study lazily.
-                        Teachers' influence can be mitigated by people's motivation to control their biases. 
-                        People who are more prejudiced agree with stronger stereotypes than people who are less prejudiced. 
-                        The need to respond without prejudice can be extrinsic or intrinsic motivation.</body>
-                     </div>
-                    </div>
-                   </div>
-                     <p>Experimental studies have shown that overweight students achieve better grades than normal-weight children.
-                        It is an important task for teachers to help all children enjoy physical activity. 
-                        However, one of the basic prerequisites for the successful completion of this task is that teachers must successfully overcome their own stereotypes and discriminatory behaviour.</p>
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/unknown-1.jpeg/.png" alt="..." />
-			    <img class="img-fluid" src="assets/img/portfolio/unknown.jpeg/.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/zombies.png" alt="..." />
                         </div>
                     </div>
                     <!-- Involved Item 4-->
@@ -155,21 +131,16 @@
         <!-- About Section-->
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
-                <!-- About Section Heading-->
-                <h2 class="About Stereotyping>About</h2>
+                <!-- About Stereotyping-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <!-- About Section Content-->
-                <div class="container"><p>According to MyJove Corportation, stereotyping is the the belief or assumption made on certain individuals or groups due to an overgeneralized comment or statement about them. 
-	                    For example, the assumption that older people are more likely to be tired. Stereotypes tend to be negative, and therefore they lead to prejuidice, a negative attitude or feeling towards an individual or a group. 
-	                    Such negative feelings can lead to discrimination, which is a negative form of action that does towards that individual being stereotyped. 
-	                    Stereotypes tend to spread from social learning, as they can negatively shape society's social norms. 
-	                    The way social learning does this is through adults or people of Supreme power influencing younger or learning individuals their beliefs towards society. 
-	                    Social media and the news also impact the way people think about others, as they focus on certain images that make people stereotypicalize a certain society.</p>
+                <!-- About Stereotyping-->
+                <div class="container"><p>.</p>
 </p>
                 </div>
                 </div>
@@ -189,8 +160,8 @@
                 </div>
                <!--List Contributor's Names and attributions-->
                 <div class="row justify-content-center">
-                    <div class="col-sm"><p>Julia Hopkins:Why it matters,masterhead image  x</p></div>
-                    <div class="col-sm"><p>Aisha Ahmad: About Stereotyping</p></div>
+                    <div class="col-sm"><p>Julia Hopkins:Why it matters, master head image  x</p></div>
+                    <div class="col-sm"><p>/p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
