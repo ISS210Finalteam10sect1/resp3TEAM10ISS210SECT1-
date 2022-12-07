@@ -236,7 +236,7 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
-                                    <!-- Portfolio Modal - Title-->
+                                    <!-- Postcolonial encounters in slum tourism -->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Video Title</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
@@ -245,9 +245,9 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Video-->
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/-C_onGQhiqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://youtu.be/vF5M9Oeqbis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">You can also embed Youtube videos by clicking share on a youtube video, copy and past the iframe and insert it as I have above. In place of this tutorial, talk about what is significant about this video. You should also include any necessary content warnings which may include graphic detail, violence, strobe lights, etc. </p>
+                                    <p class="mb-4">This video discusses the negative effects of slum tourism in postapartheid Africa. Meghan Muldoon, the speaker, explains her experiences while in Africa and how we view ourselves as educated and civilized compared to those who live in stereotypically impoverished nations. She also discusses how colonialism still impacts the nation today and how sterotypes and slum tourism negatively impacts people and how they percieve themselves and others.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
