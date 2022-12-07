@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>ISS 210-0.. Final</title>
+        <title>ISS 210-section001 -team 10.. Final</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -38,17 +38,24 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/portfolio/ISSfront.png" alt="..." />
+                <img class="https://fly.yale.edu/sites/default/files/event-images/collage-stereotypes.jpg" alt="..." />
                 <!-- Masthead Heading-->
-                <h1 class="masthead-heading text-uppercase mb-0">Title of Our Project</h1>
+                <h1 class="masthead-heading text-uppercase mb-0">How Stereotyping Affects the Individual and Society </h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">And Why It Matters</p>
+                <!-- Why Stereotyping Matters -->
+                <p class="masthead-subheading font-weight-light mb-0">Stereotyping matters because it's able to affect mental health.
+                    Stereotyping is a natural tenendcy. 
+                 Stereotyping is an assumption about an individual or a group . 
+                    A stereotype can be postitve or negative, though negative stereotypes are the most commomn.
+                     Making a stereotype about someone or a group another ultimatley labels their identity as one thing. 
+                Stereotyping limits a person or a group to a single story about themeselves.
+                These single stories can affect ones mental health, depending on the serveity of the stereotype that was made.
+                Stereotypes can cause people to develop mental illnesses like depression, anxiety disorders, and personailty disorders. </p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -107,7 +114,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/SJImage5.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/young-people-experience-frequent-discrimination-behavioral-mental-problems-1440x810.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Involved Item 6-->
@@ -125,16 +132,21 @@
         <!-- About Section-->
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
-                <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <!-- About Stereotyping-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">About Stereotyping</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <!-- About Section Content-->
-                <div class="container"><p>This is where you will gather together your evidence. Why should we care about this issue? It is a good idea to start with an anecdote and this section will be graded on investment and enthusiasm. Remember, people are moved by opinions and passion. You may want to incorporate a story that will influence people to care. You can add images and videos that speak to this anecdote, either in the portfolio section, where you should have a mix of mediums, including images, videos, evidence, and calls to action, or you can add one powerful image or video here by copying and pasting the code into this divider (I recommend the former so that it is not too busy). Once you have captured your audience's attention and got them invested, introduce your main argument and scholars. This section should include the "so-what?" of your argument. This container will expand as needed but still strive for concision.</p>
+                <!-- About Stereotyping-->
+                <div class="container"><p>According to MyJove Corporation, the definiton of a stereotype is the specific belief or assumption about individuals based solely on their membership in a particular group.
+                This can include things like microagressions or biases that are unintentionally misrepresenting a certain group. Stereotypes tend to be negative which leads to prejudice, a negative attitude or feeling to the group being stereotyped.
+                Prejudice can lead to an individual doing harmful actions to those are stereotypicalized. This is known as discrimination, which is the negative actions towards an individual being stereotyped. 
+                Stereotypes, prejudice, and discrimination all come from the origin of social learning as one learns how to act upon social norms. 
+                This can include the exmaple of children or training individuals learning prejudiced beliefs from their parents, teachers, or those in Supreme Power. 
+                The usage of mainstream media like the news or social media also plays a huge role in impacting the way people perceive stereotypes. </p>
                 </div>
                 </div>
                 <!-- About Section Button-->
@@ -153,9 +165,9 @@
                 </div>
                <!--List Contributor's Names and attributions-->
                 <div class="row justify-content-center">
-                    <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
-                    <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
-                    <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
+                    <div class="col-sm"><p>Julia Hopkins:Why it matters, master head image  x</p></div>
+                    <div class="col-sm"><p>/p></div>
+                    <div class="col-sm"><p>Aisha Ahmad: About Stereotyping</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                 </div>
@@ -229,7 +241,7 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
-                                    <!-- Portfolio Modal - Title-->
+                                    <!-- Postcolonial encounters in slum tourism -->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Video Title</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
@@ -238,9 +250,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Video-->
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/-C_onGQhiqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://youtu.be/vF5M9Oeqbis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">You can also embed Youtube videos by clicking share on a youtube video, copy and past the iframe and insert it as I have above. In place of this tutorial, talk about what is significant about this video. You should also include any necessary content warnings which may include graphic detail, violence, strobe lights, etc. </p>
+                                    <p class="mb-4">This video discusses the negative effects of slum tourism in postapartheid Africa. Meghan Muldoon, the speaker, explains her experiences while in Africa and how we view ourselves as educated and civilized compared to those who live in stereotypically impoverished nations. She also discusses how colonialism still impacts the nation today and how sterotypes and slum tourism negatively impacts people and how they percieve themselves and others.
+                                    Media often depics people as how they want others to percieve them. In this case, media wants to depict images or videos of people who, visually, are in less fortunate situations. This ultimately harms these individuals and further allows the perpetrations of stereotyping. By showing specific races or ethnicities of people in "impoverished" locations, the media spreads these stereotypes in a larger scale, which further divides people because of these perceptions.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -326,7 +339,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Title of Image 5</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Health hazards caused by discrimination</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -334,9 +347,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/SJImage5.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/young-people-experience-frequent-discrimination-behavioral-mental-problems-1440x810.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">This is where you will say something about the image. Try to have these six containers provide a mix of calls to action and literature to support your cause. For instance, if you can find a local organization to call/volunteer/donate/etc., you may want to put their information in one of these containers. Likewise, your image may be a phone. The title of this image may be their organization. In the space where this is all typed, you will talk about them. If they are an organization, you may include their mission statement or their spokesperson or representative image. If it is literature, be sure to include significant evidence here. You may want to pull a quote (if you do, include in-text citation) and you may want to pull a photo of scholar/speaker from the internet. Make sure it is covered under your license, especially if you have made your website public..</p>
+                                    <p class="mb-4">In the 14 of 14,632 articles which met inclusion criteria for the discrimination, four showed all-cause mortality, four showed cause-specific mortality, and four showed birth problems (Michaels et al. Paragraph 1).
+                                    “All studies found a positive association between area-level racial prejudice and adverse health outcomes among racial/ethnic minoritized groups, with four studies also showing a similar association among Whites” (Michaels et al. Paragraph 1).
+                                    
+                                    </p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
