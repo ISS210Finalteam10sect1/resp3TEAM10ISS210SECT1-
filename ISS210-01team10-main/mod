@@ -132,7 +132,7 @@
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
                 <!-- About Stereotyping-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white">About Stereotyping</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -140,8 +140,12 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- About Stereotyping-->
-                <div class="container"><p>.</p>
-</p>
+                <div class="container"><p>According to MyJove Corporation, the definiton of a stereotype is the specific belief or assumption about individuals based solely on their membership in a particular group.
+                This can include things like microagressions or biases that are unintentionally misrepresenting a certain group. Stereotypes tend to be negative which leads to prejudice, a negative attitude or feeling to the group being stereotyped.
+                Prejudice can lead to an individual doing harmful actions to those are stereotypicalized. This is known as discrimination, which is the negative actions towards an individual being stereotyped. 
+                Stereotypes, prejudice, and discrimination all come from the origin of social learning as one learns how to act upon social norms. 
+                This can include the exmaple of children or training individuals learning prejudiced beliefs from their parents, teachers, or those in Supreme Power. 
+                The usage of mainstream media like the news or social media also plays a huge role in impacting the way people perceive stereotypes. </p>
                 </div>
                 </div>
                 <!-- About Section Button-->
@@ -162,7 +166,7 @@
                 <div class="row justify-content-center">
                     <div class="col-sm"><p>Julia Hopkins:Why it matters, master head image  x</p></div>
                     <div class="col-sm"><p>/p></div>
-                    <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
+                    <div class="col-sm"><p>Aisha Ahmad: About Stereotyping</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                     <div class="col-sm"><p>Contact first name and last name for more infomation on x</p></div>
                 </div>
