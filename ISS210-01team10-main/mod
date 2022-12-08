@@ -349,9 +349,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/young-people-experience-frequent-discrimination-behavioral-mental-problems-1440x810.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">In the 14 of 14,632 articles which met inclusion criteria for the discrimination, four showed all-cause mortality, four showed cause-specific mortality, and four showed birth problems (Michaels et al. Paragraph 1).
-                                    “All studies found a positive association between area-level racial prejudice and adverse health outcomes among racial/ethnic minoritized groups, with four studies also showing a similar association among Whites” (Michaels et al. Paragraph 1).
-                                    
+                                    <p class="mb-4">In the article, researchers talking about the negative effects of discrimination on the general health. In the 14 of 14,632 articles which met inclusion criteria for the discrimination, four showed all-cause mortality, four showed cause-specific mortality, and four showed birth problems (Michaels et al. Paragraph 1). The hazards include diabetes, high blood pressure, miscarriage, etc. Also, “All studies found a positive association between area-level racial prejudice and adverse health outcomes among racial/ethnic minoritized groups, with four studies also showing a similar association among Whites” (Michaels et al. Paragraph 1). The discrimination cause mental pressure and massive stress to victims.
                                     </p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
