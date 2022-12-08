@@ -92,10 +92,28 @@
                     <!-- Involved Item 3-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <!--Stereotypes about overweight students and their impact on grading among physical education teachers-->
+                        Many students perform poorly in sports because they are overweight. 
+                        Physical education teachers think that these overweight students need more attention and care. 
+                        They often avoid physical education classes and are teased by those around them.<body>
+                        <p>Overweight individuals are stereotyped as lazy, stupid, weak and incompetent.
+                        Many people think they are obese because of a lack of self-control, which also imposes a burden on society. 
+                        These teachers also had lower expectations for overweight students than for normal-weight students and had lower expectations than those who taught subjects not related to exercise or health.
+                        In such cases, stereotypes have a strong influence on students. 
+                        Those students may feel that they are discriminated against, resulting in a weariness of the heart, not willing to go to school, and do not want to communicate with others, so that they will slowly away from society, even depression.</p>
+                      </div>
+                      <div/>
+                      <p>Thus, stereotypes can lead to bias in judgment.
+                      However, their influence can be mitigated by people's motivation to control their biases.
+                      People who are more prejudiced agree with stronger stereotypes than people who are less prejudiced.
+                      The need to respond without prejudice can be extrinsic or intrinsic motivation.
+                      Experimental studies have shown that overweight students achieve better grades than normal-weight children.
+                      It is an important task for teachers to help all children enjoy physical activity. 
+                      However, one of the basic prerequisites for the successful completion of this task is that teachers must successfully overcome their own stereotypes and discriminatory behaviour.</p>
+                         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                          <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/zombies.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/unknown-1.jpeg" alt="..." />
                             　　<p>Tal about THE ARTICLE YOU RESERCHED <p>
                         </div>
                     </div>
