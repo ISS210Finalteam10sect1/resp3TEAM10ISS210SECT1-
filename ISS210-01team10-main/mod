@@ -157,6 +157,9 @@
             <div class="container">
                 <!-- Contact Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Learn More</h2>
+		 <a class="btn btn-outline-light btn-social mx-1" href=”https://naacp.org/"><i class="fab fafw fa-twitter"></i></a>
+		 <a class="btn btn-outline-light btn-social mx-1" href=”https://www.unwomen.org/en"><i class="fab fafw fa-twitter"></i></a>
+		 <a class="btn btn-outline-light btn-social mx-1" href=”https://supportkind.org/"><i class="fab fafw fa-twitter"></i></a>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
